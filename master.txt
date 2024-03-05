@@ -3,3 +3,4 @@ one color red
 two color blue
 three color blue
 four color primary
+five color slate
